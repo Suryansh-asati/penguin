@@ -2,7 +2,7 @@
 
 A delightful CSS art project featuring an interactive animated penguin in a winter landscape. This project demonstrates advanced CSS techniques including animations, transforms, and pseudo-elements.
 
-![CSS Penguin Preview](preview.png)
+![CSS Penguin Preview](https://penguini.netlify.app/)
 
 ## Features
 
